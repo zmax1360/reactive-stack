@@ -41,6 +41,7 @@
     "nativeLanguage": "en",
     "creationTimestamp": 1632276711220,
     "entities": ["Tag", "Blog", "Product", "Post"],
-    "lastLiquibaseTimestamp": 1632276951000
+    "lastLiquibaseTimestamp": 1632276951000,
+    "appFolder": "gateway"
   }
 }
